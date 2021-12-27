@@ -1,8 +1,8 @@
-## ADVANCE CRACKING CREATOR TOOL
+## ADVANCE CRACKING TOOL
 
 # Social Media Hacking Tool
 ```
-Tool For Cracking Accounts
+Tool For Cracking Social Media Accounts
 ```
 ## Install Requirements (on Linux)
 ```
